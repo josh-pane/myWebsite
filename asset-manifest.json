@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b70f8d79.chunk.css",
-    "main.js": "/static/js/main.44911742.chunk.js",
-    "main.js.map": "/static/js/main.44911742.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.23fa0979.chunk.js": "/static/js/2.23fa0979.chunk.js",
-    "static/js/2.23fa0979.chunk.js.map": "/static/js/2.23fa0979.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.36f0f83dc3f57610982056d88816b057.js": "/precache-manifest.36f0f83dc3f57610982056d88816b057.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b70f8d79.chunk.css.map": "/static/css/main.b70f8d79.chunk.css.map",
-    "static/media/Joshua_Pane_Resume.pdf": "/static/media/Joshua_Pane_Resume.3e613e94.pdf",
-    "static/media/insta.png": "/static/media/insta.6d2ab22b.png",
-    "static/media/linkedin.png": "/static/media/linkedin.f08c524d.png",
-    "static/media/twitter.png": "/static/media/twitter.3d74e8bf.png"
+    "main.css": "/./static/css/main.b70f8d79.chunk.css",
+    "main.js": "/./static/js/main.44911742.chunk.js",
+    "main.js.map": "/./static/js/main.44911742.chunk.js.map",
+    "runtime~main.js": "/./static/js/runtime~main.5381c98e.js",
+    "runtime~main.js.map": "/./static/js/runtime~main.5381c98e.js.map",
+    "static/js/2.23fa0979.chunk.js": "/./static/js/2.23fa0979.chunk.js",
+    "static/js/2.23fa0979.chunk.js.map": "/./static/js/2.23fa0979.chunk.js.map",
+    "index.html": "/./index.html",
+    "precache-manifest.290b0a3875727831e5fc269fa83f174a.js": "/./precache-manifest.290b0a3875727831e5fc269fa83f174a.js",
+    "service-worker.js": "/./service-worker.js",
+    "static/css/main.b70f8d79.chunk.css.map": "/./static/css/main.b70f8d79.chunk.css.map",
+    "static/media/Joshua_Pane_Resume.pdf": "/./static/media/Joshua_Pane_Resume.3e613e94.pdf",
+    "static/media/insta.png": "/./static/media/insta.6d2ab22b.png",
+    "static/media/linkedin.png": "/./static/media/linkedin.f08c524d.png",
+    "static/media/twitter.png": "/./static/media/twitter.3d74e8bf.png"
   }
 }
