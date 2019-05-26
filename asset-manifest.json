@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myWebsite/static/css/main.b70f8d79.chunk.css",
+    "main.js": "/myWebsite/static/js/main.44911742.chunk.js",
+    "main.js.map": "/myWebsite/static/js/main.44911742.chunk.js.map",
+    "runtime~main.js": "/myWebsite/static/js/runtime~main.91cccd61.js",
+    "runtime~main.js.map": "/myWebsite/static/js/runtime~main.91cccd61.js.map",
+    "static/js/2.23fa0979.chunk.js": "/myWebsite/static/js/2.23fa0979.chunk.js",
+    "static/js/2.23fa0979.chunk.js.map": "/myWebsite/static/js/2.23fa0979.chunk.js.map",
+    "index.html": "/myWebsite/index.html",
+    "precache-manifest.136bba7a5c86cbe71f6a62b0e0e7de9c.js": "/myWebsite/precache-manifest.136bba7a5c86cbe71f6a62b0e0e7de9c.js",
+    "service-worker.js": "/myWebsite/service-worker.js",
+    "static/css/main.b70f8d79.chunk.css.map": "/myWebsite/static/css/main.b70f8d79.chunk.css.map",
+    "static/media/Joshua_Pane_Resume.pdf": "/myWebsite/static/media/Joshua_Pane_Resume.3e613e94.pdf",
+    "static/media/insta.png": "/myWebsite/static/media/insta.6d2ab22b.png",
+    "static/media/linkedin.png": "/myWebsite/static/media/linkedin.f08c524d.png",
+    "static/media/twitter.png": "/myWebsite/static/media/twitter.3d74e8bf.png"
+  }
+}
