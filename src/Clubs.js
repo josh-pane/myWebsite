@@ -4,10 +4,6 @@ class Experience extends Component {
     return (
       <div>
 
-      <h3> <font size="5"> Trivia </font></h3>
-      <p> I am on a trivia team called the Quizzards of Oz. It is a group of computer science majors who go to Fuzzy's on Thursdays for a good time and to
-      possibly win a gift card. </p>
-
       <h3> <font size="5"> Cybersecurity Team </font></h3>
       <p> I am on Baylor's Cybersecurity team. We got fourth in the nation in 2018 and top eight out of twenty-one teams in the south in 2019. We look forward to competing again
       in many more competitions to come. I am in charge of knowing and securing all types linux distributions along with services on those distributions.
@@ -15,6 +11,10 @@ class Experience extends Component {
 
       <h3> <font size="5"> Kappa Sigma</font></h3>
       <p> I am a proud member of the Lambda Tau Chapter of Kappa Sigma at Baylor University.</p>
+
+      <h3> <font size="5"> Trivia </font></h3>
+      <p> I am on a trivia team called the Quizzards of Oz. It is a group of computer science majors who go to Fuzzy's on Thursdays for a good time and to
+      possibly win a gift card. </p>
 
       <h3> <font size="5"> WICS</font></h3>
       <p> WICS is the Women in Computer Science club that supports women that are looking to go into computer science as a career.
