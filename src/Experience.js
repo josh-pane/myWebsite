@@ -14,7 +14,7 @@ class Experience extends Component {
       with tasks such as planning, writing, and testing of software. I am directly involved with all the phases of the development
        process and am required to communicate ideas effectively.
        </p>
-       <p>As a Software QA intern, my toolkit includes: Java, Selenium Webdriver, Silk Test, Eclipse, and Jenkins
+       <p>As a Software QA Intern during the summer of 2018, my toolkit includes: Java, Selenium Webdriver, Silk Test, Eclipse, and Jenkins
        to ensure proper functionality and integrity of the product. I automate the QA process through continuous integration software
         which emails error reports. I have automated testing for web, mobile, and desktop applications while at CBORD.</p>
         <br/>
